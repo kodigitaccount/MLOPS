@@ -1,0 +1,95 @@
+===============================
+*** 11th Jan MLOPS WORKSHOP ***
+===============================
+1- Introduction
+2- Intro about MlOps
+3- Introduction SKLEARN framework 
+4- Dataset explanation
+5- Lets code
+	Macine learning Model building
+	Mlflow UI to log the model 
+	Register the model 
+6- Question & Answer 
+7- LIVE WORKSHOP -->
+	https://www.youtube.com/watch?v=8gDNqpt2bpM
+=============================
+
+Session is going to be > 2hr
+student have any question we will discuss at last not now
+
+1- Introduction 
+	https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/
+		
+2- MLOPS == ML + OPS (OPERATION)
+	2 TYPE OF SERVER
+		APPLICATION SERVER 
+		PRODUCTION SERVER 
+	amazon.com -- 365 day 24/7 website will be open 
+		amazon.com -- connected to production server 
+	
+	phonepay.com -- production server 
+	gpay.com -- production server 
+	
+
+3- what is mlops >
+	ml + operation 
+	colaboration ml developer + devops + data engineer team
+
+	why mlops ?
+		faster deployment 
+		continuous monitoring
+		colaboration between datascience + operation team
+		once we build ml mode with specific data you have deploy to the production 
+		data is keep on increse need to retrain the model 
+		ml model has to retrained based on the dataflow
+		
+		2021- 2022 (model v1)
+		2023-2024 data will increate ( you need to retrain the model ) 
+			model v2
+		as the data will increase version will also increate 
+model upgradation (v1, v2 
+model degration ( v4 -- v1) as per situation base 
+
+4- key component of mlops 
+	continuous integration 
+	model integration
+	model deployemnt
+	model monitoring
+
+5- How mlops workflow ?
+	collectthe data (data collection)
+	model traing
+	model deployment 
+	model monitoring
+	model update with as new data increase 
+
+6- MLOPS TOOLS
+	MLFLOW -- WE WILL BE USING MLFLOW 
+	KUBEFLOW
+	DOCKER
+	CLOUD
+	DATABRICKS
+	ZENML
+
+MLOPS THOERY WE ARE COMPLETE -- 
+
+	
+
+
+30 MINute overview 
+	- linkedin
+	- session going on live
+	- mlops  theory
+	- my new batch schedule at 7pm (scan whatapp qr code)
+		ml + ai + gen + prompt + llm model + python + dl 
+		+ nn + stats + math + tableau + power + mlops + cicd + rag
+
+======================================
+
+
+
+	
+	
+		
+
+
